@@ -6,8 +6,8 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 
-global.owner = [
-  ['919074692450', 'ABHISHEK-SURESH', true],
+global.owner = [ıllıllı⭐🌟 P͙r͙a͙s͙a͙d͙ L͙a͙k͙s͙h͙a͙n͙ 🌟⭐ıllıllı
+  ['94772289620', 'ABHISHEK-SURESH', true],
   [''],
   [''] 
 ] //Number of owners
@@ -47,9 +47,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
+global.botname = '(•̀o•́)┌iii┐ 𝐒𝐇𝐀𝐍 𝐁𝐎𝐓- 𝐌𝐃'
 global.premium = 'true'
-global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️' 
+global.packname = '【░S░H░A░N░ ░B░O░T░】' 
 global.author = 'ABHISHEK SURESH' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
 global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
